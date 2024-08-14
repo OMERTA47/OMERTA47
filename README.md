@@ -57,3 +57,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/OMERTA47/OMERTA47/output/snake.svg" alt="Snake animation" />
+
+###
