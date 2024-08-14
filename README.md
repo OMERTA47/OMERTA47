@@ -29,7 +29,7 @@
 
 ###
 
-- 🔭 I’m currently working on [DEVLERN](https://discord.gg/a2PvcTPQ)
+- 🔭 I’m currently working on [DEVLEARN](https://discord.gg/a2PvcTPQ)
 
 - 🌱 I’m currently learning **ReactJS, Rust**
 
